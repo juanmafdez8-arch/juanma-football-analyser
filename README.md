@@ -1,5 +1,4 @@
-# Aigle FC Analytics 📊⚽
-
+# Juanma Football Analyser 🎥⚽
 **Expo app para análisis de rendimiento en futbol femenino con Supabase, GPS tracking, datos de wearables y análisis de actividad en tiempo real.**
 
 ## 🎯 Características
@@ -16,10 +15,8 @@
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/juanmafdez8-arch/aigle-fc-analytics.git
-cd aigle-fc-analytics
-npm install
-```
+git clone https://github.com/juanmafdez8-arch/juanma-football-analyser.gitcd aigle-fc-analytics
+cd juanma-football-analyser```
 
 ### 2. Crear archivo `.env.local`
 ```env
